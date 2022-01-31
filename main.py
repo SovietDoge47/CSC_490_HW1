@@ -18,6 +18,7 @@ corna = 9
 cornb = 21
 side = 16
 
+#Currently set to make an image that fits a 1920x1080 resolution
 for i in range(1920):
     for j in range(1080):
         x = corna + i * side / 100
